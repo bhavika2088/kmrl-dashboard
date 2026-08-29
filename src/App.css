@@ -74,11 +74,12 @@ body {
   font-family: "Space Grotesk";
   font-size: 21px;
   font-weight: 800;
+  color: #172727;
 }
 
 .logo-area p {
   margin: 4px 0 0;
-  color: #62716e;
+  color: #536560;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.6px;
@@ -87,7 +88,7 @@ body {
 .nav-title {
   margin: 0 0 12px;
   padding: 0 13px;
-  color: #657570;
+  color: #536560;
   font-size: 10px;
   letter-spacing: 1.7px;
   font-weight: 800;
@@ -109,7 +110,7 @@ nav button {
   border: none;
   border-radius: 12px;
   background: transparent;
-  color: #52635f;
+  color: #405550;
   display: flex;
   align-items: center;
   gap: 14px;
@@ -288,13 +289,14 @@ nav button.nav-active {
 }
 
 .sidebar-footer strong {
+  color: #172727;
   font-size: 11px;
   font-weight: 800;
 }
 
 .sidebar-footer p {
   margin: 4px 0 0;
-  color: #687874;
+  color: #536560;
   font-size: 9px;
   font-weight: 600;
 }
@@ -319,7 +321,7 @@ nav button.nav-active {
 
 .small-label {
   margin: 0 0 8px;
-  color: #377c74;
+  color: #27736b;
   font-size: 10px;
   letter-spacing: 1.6px;
   font-weight: 800;
@@ -327,6 +329,7 @@ nav button.nav-active {
 
 .top h1 {
   margin: 0;
+  color: #172727;
   font-family: "Space Grotesk";
   font-size: 33px;
   font-weight: 800;
@@ -339,7 +342,7 @@ nav button.nav-active {
 
 .subtitle {
   margin: 7px 0 0;
-  color: #586a66;
+  color: #405550;
   font-size: 13px;
   font-weight: 600;
 }
@@ -351,13 +354,13 @@ nav button.nav-active {
 }
 
 .sync {
-  color: #536560;
+  color: #405550;
   font-size: 10px;
   font-weight: 600;
 }
 
 .sync span {
-  color: #3f956b;
+  color: #31855f;
   font-weight: 800;
 }
 
@@ -397,19 +400,20 @@ nav button.nav-active {
 }
 
 .profile strong {
+  color: #172727;
   font-size: 12px;
   font-weight: 800;
 }
 
 .profile small {
   margin-top: 3px;
-  color: #667773;
+  color: #536560;
   font-size: 10px;
   font-weight: 600;
 }
 
 .arrow {
-  color: #667773;
+  color: #536560;
 }
 
 /* =========================
@@ -427,7 +431,7 @@ nav button.nav-active {
   min-height: 125px;
   padding: 20px;
   border-radius: 18px;
-  border: 1px solid rgba(120, 140, 135, 0.18);
+  border: 1px solid rgba(80, 105, 100, 0.2);
   display: flex;
   align-items: center;
   gap: 14px;
@@ -456,7 +460,7 @@ nav button.nav-active {
   width: 46px;
   height: 46px;
   border-radius: 13px;
-  background: rgba(255,255,255,0.48);
+  background: rgba(255,255,255,0.55);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -466,7 +470,7 @@ nav button.nav-active {
 
 .quick-card p {
   margin: 0;
-  color: #405550;
+  color: #304843;
   font-size: 10px;
   letter-spacing: 1.1px;
   font-weight: 800;
@@ -482,7 +486,7 @@ nav button.nav-active {
 }
 
 .quick-card span {
-  color: #405550;
+  color: #304843;
   font-size: 11px;
   font-weight: 700;
 }
@@ -491,7 +495,7 @@ nav button.nav-active {
   position: absolute;
   top: 15px;
   right: 14px;
-  color: #435550;
+  color: #304843;
   font-size: 10px;
   font-weight: 700;
 }
@@ -515,7 +519,7 @@ nav button.nav-active {
 .card {
   padding: 24px;
   border-radius: 19px;
-  border: 1px solid rgba(100, 125, 119, 0.18);
+  border: 1px solid rgba(80, 105, 100, 0.2);
   box-shadow: 0 8px 24px rgba(35, 65, 60, 0.06);
   animation: fadeUp 0.55s ease both;
 }
@@ -537,7 +541,7 @@ nav button.nav-active {
 
 .label {
   margin: 0 0 7px;
-  color: #31756d;
+  color: #27736b;
   font-size: 10px;
   letter-spacing: 1.5px;
   font-weight: 800;
@@ -553,10 +557,10 @@ nav button.nav-active {
 
 .card-header button {
   padding: 8px 11px;
-  border: 1px solid rgba(100, 120, 115, 0.2);
+  border: 1px solid rgba(80, 100, 95, 0.25);
   border-radius: 9px;
-  background: rgba(255,255,255,0.48);
-  color: #405550;
+  background: rgba(255,255,255,0.55);
+  color: #304843;
   font-size: 10px;
   font-weight: 700;
 }
@@ -606,7 +610,7 @@ nav button.nav-active {
 }
 
 .donut-hole span {
-  color: #405550;
+  color: #304843;
   font-size: 10px;
   font-weight: 700;
 }
@@ -643,7 +647,7 @@ nav button.nav-active {
 }
 
 .legend span {
-  color: #405550;
+  color: #304843;
   font-size: 11px;
   font-weight: 700;
 }
@@ -692,7 +696,7 @@ nav button.nav-active {
 }
 
 .ai-number span {
-  color: #4f5362;
+  color: #464b59;
   font-size: 10px;
   font-weight: 700;
 }
@@ -705,7 +709,7 @@ nav button.nav-active {
 
 .ai-reasons p {
   margin: 0;
-  color: #554c5e;
+  color: #4c4355;
   font-size: 11px;
   font-weight: 600;
 }
@@ -739,7 +743,7 @@ nav button.nav-active {
   display: flex;
   align-items: center;
   gap: 13px;
-  border: 1px solid rgba(100, 120, 115, 0.18);
+  border: 1px solid rgba(80, 105, 100, 0.2);
 }
 
 .mini-card:nth-child(1) {
@@ -771,7 +775,7 @@ nav button.nav-active {
 
 .mini-card p {
   margin: 0;
-  color: #405550;
+  color: #304843;
   font-size: 10px;
   letter-spacing: 1px;
   font-weight: 800;
@@ -786,7 +790,7 @@ nav button.nav-active {
 }
 
 .mini-card small {
-  color: #53645f;
+  color: #4c5d58;
   font-size: 10px;
   font-weight: 600;
 }
@@ -802,10 +806,10 @@ nav button.nav-active {
 
 .outline-button {
   padding: 9px 12px;
-  border: 1px solid rgba(100, 115, 110, 0.2);
+  border: 1px solid rgba(80, 100, 95, 0.25);
   border-radius: 9px;
-  background: rgba(255,255,255,0.45);
-  color: #465955;
+  background: rgba(255,255,255,0.5);
+  color: #304843;
   font-size: 10px;
   font-weight: 800;
 }
@@ -825,17 +829,17 @@ nav button.nav-active {
 
 .train-heading {
   padding: 10px 13px;
-  background: rgba(255,255,255,0.45);
+  background: rgba(255,255,255,0.5);
   border-radius: 8px;
-  color: #5d6e69;
+  color: #4f625d;
   font-size: 10px;
   font-weight: 800;
 }
 
 .train-row {
   padding: 15px 13px;
-  border-bottom: 1px solid rgba(110,125,120,0.18);
-  color: #52635e;
+  border-bottom: 1px solid rgba(90,105,100,0.2);
+  color: #405550;
   font-size: 11px;
   font-weight: 600;
 }
@@ -899,6 +903,7 @@ nav button.nav-active {
 }
 
 .coming-soon h2 {
+  color: #172727;
   font-family: "Space Grotesk";
   font-size: 34px;
   font-weight: 800;
@@ -906,7 +911,7 @@ nav button.nav-active {
 
 .coming-soon > p:not(.label) {
   max-width: 450px;
-  color: #5d6e69;
+  color: #4f625d;
   font-size: 13px;
   font-weight: 600;
 }
@@ -941,9 +946,11 @@ nav button.nav-active {
 .app.dark .train-row > strong,
 .app.dark .legend strong,
 .app.dark .donut-hole strong,
-.app.dark .coming-soon h2 {
+.app.dark .coming-soon h2,
+.app.dark .logo-area h2,
+.app.dark .profile strong,
+.app.dark .sidebar-footer strong {
   color: #ffffff;
-  font-weight: 800;
 }
 
 .app.dark .subtitle,
@@ -953,7 +960,6 @@ nav button.nav-active {
 .app.dark .legend span,
 .app.dark .donut-hole span {
   color: #e5eeeb;
-  font-weight: 600;
 }
 
 .app.dark .quick-card p,
@@ -961,32 +967,22 @@ nav button.nav-active {
 .app.dark .label,
 .app.dark .small-label {
   color: #c5ddd8;
-  font-weight: 800;
 }
 
 .app.dark .ai-reasons p {
   color: #e0e9e6;
-  font-weight: 600;
 }
 
 .app.dark .nav-title {
   color: #b9ded8;
-  font-weight: 800;
-}
-
-.app.dark .logo-area h2 {
-  color: #ffffff;
-  font-weight: 800;
 }
 
 .app.dark .logo-area p {
   color: #c0cfcc;
-  font-weight: 600;
 }
 
 .app.dark nav button {
   color: #e5eeeb;
-  font-weight: 700;
 }
 
 .app.dark nav button:hover {
@@ -997,22 +993,14 @@ nav button.nav-active {
 .app.dark nav button.nav-active {
   color: #b8eee5;
   background: #21443f;
-  font-weight: 800;
-}
-
-.app.dark .sidebar-footer strong {
-  color: #ffffff;
-  font-weight: 800;
 }
 
 .app.dark .sidebar-footer p {
   color: #c0cfcc;
-  font-weight: 600;
 }
 
 .app.dark .sync {
   color: #d7e3df;
-  font-weight: 600;
 }
 
 .app.dark .theme-toggle {
@@ -1075,13 +1063,11 @@ nav button.nav-active {
 
 .app.dark .ai-number strong {
   color: #d9c5eb;
-  font-weight: 800;
 }
 
 .app.dark .train-heading {
   color: #e4eeeb;
   background: rgba(255,255,255,0.08);
-  font-weight: 800;
 }
 
 .app.dark .train-row {
@@ -1107,10 +1093,7 @@ nav button.nav-active {
   background: rgba(255,255,255,0.09);
 }
 
-.app.dark .profile small {
-  color: #c5d2cf;
-}
-
+.app.dark .profile small,
 .app.dark .arrow {
   color: #c5d2cf;
 }

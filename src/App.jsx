@@ -165,13 +165,13 @@ function App() {
               KOCHI METRO RAIL LIMITED
             </p>
 
-            <h1>
-              Good morning, <span>Operations.</span>
-            </h1>
+       <h1>
+  Train Induction <span>Overview.</span>
+</h1>
 
-            <p className="subtitle">
-              AI-driven train induction & scheduling platform
-            </p>
+<p className="subtitle">
+  Review fleet readiness, constraints, and today's recommended inductions
+</p>
           </div>
 
           <div className="profile-area">
